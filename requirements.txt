@@ -1,0 +1,9 @@
+aiogram==3.0.0b7
+Django==4.2
+phonenumbers==8.13
+django-phonenumber-field==7.1
+environs==9.5
+torchvision==0.15.2
+more_itertools==9.1.0
+waitress==2.1.2
+whitenoise==6.5.0
